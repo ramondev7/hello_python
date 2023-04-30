@@ -1,4 +1,4 @@
-# Operadores aritmeticos
+# Operadores aritméticos
 
 # Operaciones con enteros
 print(3 + 4)
@@ -34,16 +34,16 @@ print(3 != 4)
 # Operaciones con cadenas de texto
 print("Hola" > "Python")
 print("Hola" < "Python")
-print("aaaa" >= "abaa")  # Ordenacion alfabetica por ASCII
+print("aaaa" >= "abaa")  # Ordenacion alfabética por ASCII
 print(len("aaaa") >= len("abaa"))  # Cuenta caracteres
 print("Hola" <= "Python")
 print("Hola" == "Hola")
 print("Hola" != "Python")
 
-# Operaciones logicas o sistema logico
+# Operaciones lógicas o sistema lógico
 
 '''
-Operaciones basadas en el algebra de Boole o algebra booleana
+Operaciones basadas en el álgebra de Boole o álgebra booleana
 https://es.wikipedia.org/wiki/%C3%81lgebra_de_Boole
 ''' 
 print(3 > 4 and "Hola" > "Python")
