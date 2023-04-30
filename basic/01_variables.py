@@ -7,9 +7,9 @@ my_int_variable = 5
 print(my_int_variable)
 
 """
-¿Se puede cambiar el tipo de una variable? Si
+¿Se puede cambiar el tipo de una variable? Sí
 Por ejemplo, 'my_int_variable' es de tipo 'int'
-y la vamos a convertir en 'string' sin funcion,
+y la vamos a convertir en 'string' sin función,
 simplemente añadiendo comillas
 """
 print("Mi variable", my_int_variable, "es de tipo:", type(my_int_variable))
@@ -28,7 +28,7 @@ print(my_string_variable, "tiene" ,len(my_string_variable), "caracteres")
 
 """
 Aunque no es recomendable abusar de este tipo de sintaxis, 
-se pueden definir varias variables en una sola linea
+se pueden definir varias variables en una sola línea
 """
 name, surname, alias, age = "Ramón", "Gómez", 'Keler', 40
 print("Mi nombre es", name, surname, "tengo",
@@ -40,10 +40,10 @@ input_nick = input('¿Cual es tu nick? ')
 print("Hola", input_name, "AKA", input_nick)
 
 '''
-Aunque declaremos una variable de un tipo especifico,
+Aunque declaremos una variable de un tipo específico,
 no quiere decir que sea inmutable. En este caso, declaramos
 adress como "str", y al final pasa por varios tipos
-convirtiendose sin problema'''
+convirtiéndose sin problema'''
 adress: str = "Dirección"
 address = True
 address = 5
