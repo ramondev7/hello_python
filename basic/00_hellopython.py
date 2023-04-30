@@ -9,13 +9,13 @@ print(hello)
 # Esto es un comentario
 
 """
-Esto tambíen es un comentario, 
+Esto también es un comentario, 
 simplemente, esta escrito en 
-varias lineas
+varias líneas
 """
 
 '''
-Esto tambien es un comentario,
+Esto también es un comentario,
 solo que en vez de usar comillas dobles
 uso comillas simples
 '''
