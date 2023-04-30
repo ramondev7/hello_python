@@ -7,7 +7,7 @@ print(len(my_string))
 print(len(my_other_string))
 print(my_string + " " + my_other_string)
 
-my_new_line_string = "Este es un String\ncon salto de línea" # Salto de linea
+my_new_line_string = "Este es un String\ncon salto de línea" # Salto de línea
 print(my_new_line_string)
 
 my_tab_string = "\tEste es un String con tabulación" # Tabulacion
