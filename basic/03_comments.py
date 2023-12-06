@@ -2,7 +2,7 @@
 # Comentarios
 
 '''
-I'm a comment, too!
+Yo también soy un comentario
 
 
 RRRRR  GGGGG
