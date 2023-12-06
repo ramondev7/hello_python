@@ -13,7 +13,7 @@ Por ejemplo, 'my_int_variable' es de tipo 'int'
 y la vamos a convertir en 'string' sin función,
 simplemente añadiendo comillas
 """
-print("Mi variable", my_int_variable, "es de tipo:", type(my_int_variable))
+print(f"Mi variable", my_int_variable, "es de tipo:", type(my_int_variable))
 
 my_int_variable = "5" #Cambio de int a str
 print("Ahora mi variable de tipo int se ha convertido en:", type(my_int_variable))
