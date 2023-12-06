@@ -25,3 +25,4 @@ print(type(name)) #String
 print(type(surname)) #String
 print(type(country)) #String
 
+print(type('ramon'))
