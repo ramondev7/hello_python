@@ -10,4 +10,4 @@ print('''
 7 8 9 10
 ''')
 
-print('Hola, soy Ramón Gómez!\nSoy programador y muggle a partes iguales.\nMe encanta la lasaña.')
+print('Hola, soy Ramón Gómez! Aunque me llaman Ray\nSoy programador y muggle a partes iguales.\nMe encanta la lasaña.')
