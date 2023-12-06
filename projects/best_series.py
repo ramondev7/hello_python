@@ -1,0 +1,10 @@
+# Escribiendo código con ❤️
+# Tupla con las mejores series del mundo mundial, y como las tuplas son inmutables, son las 5 mejores series 100% real
+
+best_series = tuple()
+
+best_series = ('Sons of Anarchy', 'Game of Thrones', 'Breaking Bad', 'Peaky Blinders', 'Vikings')
+
+
+for i in best_series:
+    print(i)
