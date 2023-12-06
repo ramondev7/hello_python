@@ -1,5 +1,5 @@
 # Escribiendo código con ❤️
-# Tipos de datos
+# Tipos de datos básicos
 
 print(type("string")) # str
 print(type(5)) # int
