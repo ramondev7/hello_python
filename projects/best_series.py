@@ -8,6 +8,5 @@ best_series_fake = tuple()
 best_series_fake = ('Amor eterno', 'Mi otra yo', 'Hermanos', 'Pasión de Gavilanes', 'Amor prohibido')
 del best_series_fake
 
-
 for i in best_series:
     print(i)
