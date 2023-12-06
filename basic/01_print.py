@@ -1,5 +1,5 @@
 # Escribiendo código con ❤️
-# Consola
+# Print
 
 print('Hello, Python!')
 
